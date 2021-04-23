@@ -10,7 +10,7 @@ div{background-color:pink;
         background-color:burlywood;
         margin:auto;
         position: absolute;
-        top: 60%;
+        top: 70%;
         left:50%;
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
